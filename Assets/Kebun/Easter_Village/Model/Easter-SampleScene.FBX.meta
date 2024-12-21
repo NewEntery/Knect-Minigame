@@ -1,0 +1,2368 @@
+fileFormatVersion: 2
+guid: 5dfcc15f8731db44ebf52ff578e243f8
+timeCreated: 1487962585
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' 016'
+    100002: ' 017'
+    100004: Bone012
+    100006: Bone013
+    100008: Bone014
+    100010: Bone015
+    100012: Box010
+    100014: Box011
+    100016: Box012
+    100018: Box016
+    100020: Box017
+    100022: Box018
+    100024: Box019
+    100026: Box020
+    100028: Box024
+    100030: Box025
+    100032: Box026
+    100034: Box027
+    100036: Box028
+    100038: Box029
+    100040: Box030
+    100042: Church001
+    100044: Church_F001
+    100046: Cross_003
+    100048: Cylinder001
+    100050: Cylinder004
+    100052: Cylinder005
+    100054: default003
+    100056: default004
+    100058: default005
+    100060: default006
+    100062: default007
+    100064: default008
+    100066: default009
+    100068: default010
+    100070: default011
+    100072: default012
+    100074: default013
+    100076: //RootNode
+    100078: Egg_046
+    100080: Egg_047
+    100082: Egg_048
+    100084: Egg_049
+    100086: Egg_050
+    100088: Egg_051
+    100090: Egg_052
+    100092: Egg_053
+    100094: Egg_054
+    100096: Egg_House_011
+    100098: Egg_House_012
+    100100: Egg_House_013
+    100102: Egg_Pillar_004
+    100104: Flower_Rope_Church001
+    100106: Group002
+    100108: Group003
+    100110: Group004
+    100112: Group006
+    100114: Group007
+    100116: Group012
+    100118: Group015
+    100120: Group018
+    100122: House011
+    100124: House_011
+    100126: Line1479
+    100128: Line1502
+    100130: Line1503
+    100132: Line1504
+    100134: Line1533
+    100136: Line1534
+    100138: Line1535
+    100140: Line1539
+    100142: Line1540
+    100144: Line1542
+    100146: Line1545
+    100148: Line1546
+    100150: Line1547
+    100152: Line1548
+    100154: Line1549
+    100156: Line1550
+    100158: Line1552
+    100160: Line1553
+    100162: Line1554
+    100164: Line1555
+    100166: Line1557
+    100168: Line1558
+    100170: Line1561
+    100172: Line1562
+    100174: Line1563
+    100176: Line1564
+    100178: Line1565
+    100180: Line1566
+    100182: Line1567
+    100184: Line1568
+    100186: Line1569
+    100188: Line1570
+    100190: Line1574
+    100192: Line1575
+    100194: Line1576
+    100196: Line1577
+    100198: Line1578
+    100200: Line1579
+    100202: Line1580
+    100204: Line1581
+    100206: Line1582
+    100208: Line1583
+    100210: Line1588
+    100212: Line1589
+    100214: Line1590
+    100216: Line1591
+    100218: Line1608
+    100220: Line1609
+    100222: Line1613
+    100224: Line1614
+    100226: Line1615
+    100228: Line1616
+    100230: Line1617
+    100232: Line1618
+    100234: Line1619
+    100236: Line1620
+    100238: Line1621
+    100240: Line1622
+    100242: Line1623
+    100244: Line1624
+    100246: Line1625
+    100248: Line1626
+    100250: Line1627
+    100252: Line1628
+    100254: Line1629
+    100256: Line1630
+    100258: Line1645
+    100260: Line1646
+    100262: Line1647
+    100264: Object380
+    100266: Object540
+    100268: Object541
+    100270: Object542
+    100272: Object544
+    100274: Object545
+    100276: Object547
+    100278: Object589
+    100280: Object590
+    100282: Object591
+    100284: Object591 1
+    100286: Object592
+    100288: Object593
+    100290: Object594
+    100292: Object595
+    100294: Object596
+    100296: Object599
+    100298: Object606
+    100300: Object607
+    100302: Object609
+    100304: Object611
+    100306: Object612
+    100308: Object613
+    100310: Object614
+    100312: Object615
+    100314: Object616
+    100316: Object617
+    100318: Object618
+    100320: Object620
+    100322: Object621
+    100324: Object624
+    100326: Object627
+    100328: Object628
+    100330: Object630
+    100332: Object631
+    100334: Object632
+    100336: Object634
+    100338: Object636
+    100340: Object638
+    100342: Object639
+    100344: Object639 1
+    100346: Object640
+    100348: Object641
+    100350: Object642
+    100352: Object643
+    100354: Object644
+    100356: Object645
+    100358: Object646
+    100360: Object647
+    100362: Object653
+    100364: Object654
+    100366: Object655
+    100368: Object656
+    100370: Object657
+    100372: Object659
+    100374: Object660
+    100376: Object662
+    100378: Object663
+    100380: Object664
+    100382: Object665
+    100384: Object667
+    100386: Object669
+    100388: Object670
+    100390: Object673
+    100392: Object674
+    100394: Object675
+    100396: Object676
+    100398: Object677
+    100400: Object678
+    100402: Object679
+    100404: Object680
+    100406: Object681
+    100408: Object682
+    100410: Object683
+    100412: Object684
+    100414: Object685
+    100416: Object686
+    100418: Object687
+    100420: Object688
+    100422: Object689
+    100424: Object690
+    100426: Object691
+    100428: Object692
+    100430: Object693
+    100432: Object694
+    100434: Object695
+    100436: Object696
+    100438: Object697
+    100440: Object698
+    100442: Object699
+    100444: Object700
+    100446: Object702
+    100448: Object736
+    100450: Object737
+    100452: Object738
+    100454: Object739
+    100456: Object740
+    100458: Object746
+    100460: Object747
+    100462: Object748
+    100464: Object750
+    100466: Object806
+    100468: Object807
+    100470: Object817
+    100472: Object820
+    100474: Object821
+    100476: Object822
+    100478: Object823
+    100480: Object824
+    100482: Object825
+    100484: Object827
+    100486: Object828
+    100488: Object829
+    100490: Object830
+    100492: Object831
+    100494: Object832
+    100496: Object833
+    100498: Object834
+    100500: Object835
+    100502: Object836
+    100504: Object837
+    100506: Object838
+    100508: Object839
+    100510: Object840
+    100512: Object841
+    100514: Object842
+    100516: Object843
+    100518: Object844
+    100520: Object845
+    100522: Object846
+    100524: Object851
+    100526: Object852
+    100528: Object853
+    100530: Object854
+    100532: Object855
+    100534: Object856
+    100536: Object857
+    100538: Object858
+    100540: Object859
+    100542: Object860
+    100544: Object861
+    100546: Object862
+    100548: Object863
+    100550: Object864
+    100552: Object865
+    100554: Object866
+    100556: Object867
+    100558: Object868
+    100560: Object869
+    100562: Object870
+    100564: Object871
+    100566: Object872
+    100568: Object873
+    100570: Object874
+    100572: Object875
+    100574: Object876
+    100576: Object877
+    100578: Object878
+    100580: Object879
+    100582: Object880
+    100584: Object881
+    100586: Object883
+    100588: Object884
+    100590: Object885
+    100592: Object886
+    100594: Object887
+    100596: Object888
+    100598: Object890
+    100600: Object891
+    100602: Object892
+    100604: Object893
+    100606: Object894
+    100608: Object895
+    100610: Object896
+    100612: Object897
+    100614: Object898
+    100616: Object899
+    100618: Object900
+    100620: Object901
+    100622: Object902
+    100624: Object903
+    100626: Object904
+    100628: Object905
+    100630: Object913
+    100632: Object914
+    100634: Object915
+    100636: Object916
+    100638: Object917
+    100640: Object918
+    100642: Object919
+    100644: Object920
+    100646: Plane759
+    100648: Point005
+    100650: Point006
+    100652: Point007
+    100654: Point008
+    100656: RoadPiece_011
+    100658: WindMill001
+    100660: Windmill001
+    100662: WindMill002
+    100664: Windmill002
+    400000: ' 016'
+    400002: ' 017'
+    400004: Bone012
+    400006: Bone013
+    400008: Bone014
+    400010: Bone015
+    400012: Box010
+    400014: Box011
+    400016: Box012
+    400018: Box016
+    400020: Box017
+    400022: Box018
+    400024: Box019
+    400026: Box020
+    400028: Box024
+    400030: Box025
+    400032: Box026
+    400034: Box027
+    400036: Box028
+    400038: Box029
+    400040: Box030
+    400042: Church001
+    400044: Church_F001
+    400046: Cross_003
+    400048: Cylinder001
+    400050: Cylinder004
+    400052: Cylinder005
+    400054: default003
+    400056: default004
+    400058: default005
+    400060: default006
+    400062: default007
+    400064: default008
+    400066: default009
+    400068: default010
+    400070: default011
+    400072: default012
+    400074: default013
+    400076: //RootNode
+    400078: Egg_046
+    400080: Egg_047
+    400082: Egg_048
+    400084: Egg_049
+    400086: Egg_050
+    400088: Egg_051
+    400090: Egg_052
+    400092: Egg_053
+    400094: Egg_054
+    400096: Egg_House_011
+    400098: Egg_House_012
+    400100: Egg_House_013
+    400102: Egg_Pillar_004
+    400104: Flower_Rope_Church001
+    400106: Group002
+    400108: Group003
+    400110: Group004
+    400112: Group006
+    400114: Group007
+    400116: Group012
+    400118: Group015
+    400120: Group018
+    400122: House011
+    400124: House_011
+    400126: Line1479
+    400128: Line1502
+    400130: Line1503
+    400132: Line1504
+    400134: Line1533
+    400136: Line1534
+    400138: Line1535
+    400140: Line1539
+    400142: Line1540
+    400144: Line1542
+    400146: Line1545
+    400148: Line1546
+    400150: Line1547
+    400152: Line1548
+    400154: Line1549
+    400156: Line1550
+    400158: Line1552
+    400160: Line1553
+    400162: Line1554
+    400164: Line1555
+    400166: Line1557
+    400168: Line1558
+    400170: Line1561
+    400172: Line1562
+    400174: Line1563
+    400176: Line1564
+    400178: Line1565
+    400180: Line1566
+    400182: Line1567
+    400184: Line1568
+    400186: Line1569
+    400188: Line1570
+    400190: Line1574
+    400192: Line1575
+    400194: Line1576
+    400196: Line1577
+    400198: Line1578
+    400200: Line1579
+    400202: Line1580
+    400204: Line1581
+    400206: Line1582
+    400208: Line1583
+    400210: Line1588
+    400212: Line1589
+    400214: Line1590
+    400216: Line1591
+    400218: Line1608
+    400220: Line1609
+    400222: Line1613
+    400224: Line1614
+    400226: Line1615
+    400228: Line1616
+    400230: Line1617
+    400232: Line1618
+    400234: Line1619
+    400236: Line1620
+    400238: Line1621
+    400240: Line1622
+    400242: Line1623
+    400244: Line1624
+    400246: Line1625
+    400248: Line1626
+    400250: Line1627
+    400252: Line1628
+    400254: Line1629
+    400256: Line1630
+    400258: Line1645
+    400260: Line1646
+    400262: Line1647
+    400264: Object380
+    400266: Object540
+    400268: Object541
+    400270: Object542
+    400272: Object544
+    400274: Object545
+    400276: Object547
+    400278: Object589
+    400280: Object590
+    400282: Object591
+    400284: Object591 1
+    400286: Object592
+    400288: Object593
+    400290: Object594
+    400292: Object595
+    400294: Object596
+    400296: Object599
+    400298: Object606
+    400300: Object607
+    400302: Object609
+    400304: Object611
+    400306: Object612
+    400308: Object613
+    400310: Object614
+    400312: Object615
+    400314: Object616
+    400316: Object617
+    400318: Object618
+    400320: Object620
+    400322: Object621
+    400324: Object624
+    400326: Object627
+    400328: Object628
+    400330: Object630
+    400332: Object631
+    400334: Object632
+    400336: Object634
+    400338: Object636
+    400340: Object638
+    400342: Object639
+    400344: Object639 1
+    400346: Object640
+    400348: Object641
+    400350: Object642
+    400352: Object643
+    400354: Object644
+    400356: Object645
+    400358: Object646
+    400360: Object647
+    400362: Object653
+    400364: Object654
+    400366: Object655
+    400368: Object656
+    400370: Object657
+    400372: Object659
+    400374: Object660
+    400376: Object662
+    400378: Object663
+    400380: Object664
+    400382: Object665
+    400384: Object667
+    400386: Object669
+    400388: Object670
+    400390: Object673
+    400392: Object674
+    400394: Object675
+    400396: Object676
+    400398: Object677
+    400400: Object678
+    400402: Object679
+    400404: Object680
+    400406: Object681
+    400408: Object682
+    400410: Object683
+    400412: Object684
+    400414: Object685
+    400416: Object686
+    400418: Object687
+    400420: Object688
+    400422: Object689
+    400424: Object690
+    400426: Object691
+    400428: Object692
+    400430: Object693
+    400432: Object694
+    400434: Object695
+    400436: Object696
+    400438: Object697
+    400440: Object698
+    400442: Object699
+    400444: Object700
+    400446: Object702
+    400448: Object736
+    400450: Object737
+    400452: Object738
+    400454: Object739
+    400456: Object740
+    400458: Object746
+    400460: Object747
+    400462: Object748
+    400464: Object750
+    400466: Object806
+    400468: Object807
+    400470: Object817
+    400472: Object820
+    400474: Object821
+    400476: Object822
+    400478: Object823
+    400480: Object824
+    400482: Object825
+    400484: Object827
+    400486: Object828
+    400488: Object829
+    400490: Object830
+    400492: Object831
+    400494: Object832
+    400496: Object833
+    400498: Object834
+    400500: Object835
+    400502: Object836
+    400504: Object837
+    400506: Object838
+    400508: Object839
+    400510: Object840
+    400512: Object841
+    400514: Object842
+    400516: Object843
+    400518: Object844
+    400520: Object845
+    400522: Object846
+    400524: Object851
+    400526: Object852
+    400528: Object853
+    400530: Object854
+    400532: Object855
+    400534: Object856
+    400536: Object857
+    400538: Object858
+    400540: Object859
+    400542: Object860
+    400544: Object861
+    400546: Object862
+    400548: Object863
+    400550: Object864
+    400552: Object865
+    400554: Object866
+    400556: Object867
+    400558: Object868
+    400560: Object869
+    400562: Object870
+    400564: Object871
+    400566: Object872
+    400568: Object873
+    400570: Object874
+    400572: Object875
+    400574: Object876
+    400576: Object877
+    400578: Object878
+    400580: Object879
+    400582: Object880
+    400584: Object881
+    400586: Object883
+    400588: Object884
+    400590: Object885
+    400592: Object886
+    400594: Object887
+    400596: Object888
+    400598: Object890
+    400600: Object891
+    400602: Object892
+    400604: Object893
+    400606: Object894
+    400608: Object895
+    400610: Object896
+    400612: Object897
+    400614: Object898
+    400616: Object899
+    400618: Object900
+    400620: Object901
+    400622: Object902
+    400624: Object903
+    400626: Object904
+    400628: Object905
+    400630: Object913
+    400632: Object914
+    400634: Object915
+    400636: Object916
+    400638: Object917
+    400640: Object918
+    400642: Object919
+    400644: Object920
+    400646: Plane759
+    400648: Point005
+    400650: Point006
+    400652: Point007
+    400654: Point008
+    400656: RoadPiece_011
+    400658: WindMill001
+    400660: Windmill001
+    400662: WindMill002
+    400664: Windmill002
+    2300000: ' 016'
+    2300002: ' 017'
+    2300004: Box010
+    2300006: Box011
+    2300008: Box012
+    2300010: Box016
+    2300012: Box017
+    2300014: Box018
+    2300016: Box019
+    2300018: Box020
+    2300020: Box024
+    2300022: Box025
+    2300024: Box026
+    2300026: Box027
+    2300028: Box028
+    2300030: Box029
+    2300032: Box030
+    2300034: Church001
+    2300036: Cross_003
+    2300038: Cylinder001
+    2300040: Cylinder004
+    2300042: Cylinder005
+    2300044: default003
+    2300046: default004
+    2300048: default005
+    2300050: default006
+    2300052: default007
+    2300054: default008
+    2300056: default009
+    2300058: default010
+    2300060: default011
+    2300062: default012
+    2300064: default013
+    2300066: Egg_046
+    2300068: Egg_047
+    2300070: Egg_048
+    2300072: Egg_049
+    2300074: Egg_050
+    2300076: Egg_051
+    2300078: Egg_052
+    2300080: Egg_053
+    2300082: Egg_054
+    2300084: Egg_House_011
+    2300086: Egg_House_012
+    2300088: Egg_House_013
+    2300090: Egg_Pillar_004
+    2300092: Flower_Rope_Church001
+    2300094: House011
+    2300096: House_011
+    2300098: Line1479
+    2300100: Line1502
+    2300102: Line1503
+    2300104: Line1504
+    2300106: Line1533
+    2300108: Line1534
+    2300110: Line1535
+    2300112: Line1539
+    2300114: Line1540
+    2300116: Line1542
+    2300118: Line1545
+    2300120: Line1546
+    2300122: Line1547
+    2300124: Line1548
+    2300126: Line1549
+    2300128: Line1550
+    2300130: Line1552
+    2300132: Line1553
+    2300134: Line1554
+    2300136: Line1555
+    2300138: Line1557
+    2300140: Line1558
+    2300142: Line1561
+    2300144: Line1562
+    2300146: Line1563
+    2300148: Line1564
+    2300150: Line1565
+    2300152: Line1566
+    2300154: Line1567
+    2300156: Line1568
+    2300158: Line1569
+    2300160: Line1570
+    2300162: Line1574
+    2300164: Line1575
+    2300166: Line1576
+    2300168: Line1577
+    2300170: Line1578
+    2300172: Line1579
+    2300174: Line1580
+    2300176: Line1581
+    2300178: Line1582
+    2300180: Line1583
+    2300182: Line1588
+    2300184: Line1589
+    2300186: Line1590
+    2300188: Line1591
+    2300190: Line1608
+    2300192: Line1609
+    2300194: Line1613
+    2300196: Line1614
+    2300198: Line1615
+    2300200: Line1616
+    2300202: Line1617
+    2300204: Line1618
+    2300206: Line1619
+    2300208: Line1620
+    2300210: Line1621
+    2300212: Line1622
+    2300214: Line1623
+    2300216: Line1624
+    2300218: Line1625
+    2300220: Line1626
+    2300222: Line1627
+    2300224: Line1628
+    2300226: Line1629
+    2300228: Line1630
+    2300230: Line1645
+    2300232: Line1646
+    2300234: Line1647
+    2300236: Object380
+    2300238: Object541
+    2300240: Object542
+    2300242: Object544
+    2300244: Object545
+    2300246: Object547
+    2300248: Object589
+    2300250: Object590
+    2300252: Object591
+    2300254: Object591 1
+    2300256: Object592
+    2300258: Object593
+    2300260: Object594
+    2300262: Object595
+    2300264: Object596
+    2300266: Object599
+    2300268: Object606
+    2300270: Object607
+    2300272: Object609
+    2300274: Object611
+    2300276: Object612
+    2300278: Object613
+    2300280: Object614
+    2300282: Object615
+    2300284: Object616
+    2300286: Object617
+    2300288: Object618
+    2300290: Object620
+    2300292: Object621
+    2300294: Object624
+    2300296: Object627
+    2300298: Object628
+    2300300: Object630
+    2300302: Object631
+    2300304: Object632
+    2300306: Object634
+    2300308: Object636
+    2300310: Object638
+    2300312: Object639
+    2300314: Object639 1
+    2300316: Object640
+    2300318: Object641
+    2300320: Object642
+    2300322: Object643
+    2300324: Object644
+    2300326: Object645
+    2300328: Object646
+    2300330: Object647
+    2300332: Object653
+    2300334: Object654
+    2300336: Object655
+    2300338: Object656
+    2300340: Object657
+    2300342: Object659
+    2300344: Object660
+    2300346: Object662
+    2300348: Object663
+    2300350: Object664
+    2300352: Object665
+    2300354: Object667
+    2300356: Object669
+    2300358: Object670
+    2300360: Object673
+    2300362: Object674
+    2300364: Object675
+    2300366: Object676
+    2300368: Object677
+    2300370: Object678
+    2300372: Object679
+    2300374: Object680
+    2300376: Object681
+    2300378: Object682
+    2300380: Object683
+    2300382: Object684
+    2300384: Object685
+    2300386: Object686
+    2300388: Object687
+    2300390: Object688
+    2300392: Object689
+    2300394: Object690
+    2300396: Object691
+    2300398: Object692
+    2300400: Object693
+    2300402: Object694
+    2300404: Object695
+    2300406: Object696
+    2300408: Object697
+    2300410: Object698
+    2300412: Object699
+    2300414: Object700
+    2300416: Object702
+    2300418: Object736
+    2300420: Object737
+    2300422: Object738
+    2300424: Object739
+    2300426: Object740
+    2300428: Object746
+    2300430: Object747
+    2300432: Object748
+    2300434: Object750
+    2300436: Object806
+    2300438: Object807
+    2300440: Object817
+    2300442: Object820
+    2300444: Object821
+    2300446: Object822
+    2300448: Object823
+    2300450: Object824
+    2300452: Object825
+    2300454: Object827
+    2300456: Object828
+    2300458: Object829
+    2300460: Object830
+    2300462: Object831
+    2300464: Object832
+    2300466: Object833
+    2300468: Object834
+    2300470: Object835
+    2300472: Object836
+    2300474: Object837
+    2300476: Object838
+    2300478: Object839
+    2300480: Object840
+    2300482: Object841
+    2300484: Object842
+    2300486: Object843
+    2300488: Object844
+    2300490: Object845
+    2300492: Object846
+    2300494: Object851
+    2300496: Object852
+    2300498: Object853
+    2300500: Object854
+    2300502: Object855
+    2300504: Object856
+    2300506: Object857
+    2300508: Object858
+    2300510: Object859
+    2300512: Object860
+    2300514: Object861
+    2300516: Object862
+    2300518: Object863
+    2300520: Object864
+    2300522: Object865
+    2300524: Object866
+    2300526: Object867
+    2300528: Object868
+    2300530: Object869
+    2300532: Object870
+    2300534: Object871
+    2300536: Object872
+    2300538: Object873
+    2300540: Object874
+    2300542: Object875
+    2300544: Object876
+    2300546: Object877
+    2300548: Object878
+    2300550: Object879
+    2300552: Object880
+    2300554: Object881
+    2300556: Object883
+    2300558: Object884
+    2300560: Object885
+    2300562: Object886
+    2300564: Object887
+    2300566: Object888
+    2300568: Object890
+    2300570: Object891
+    2300572: Object892
+    2300574: Object893
+    2300576: Object894
+    2300578: Object895
+    2300580: Object896
+    2300582: Object897
+    2300584: Object898
+    2300586: Object899
+    2300588: Object900
+    2300590: Object901
+    2300592: Object902
+    2300594: Object903
+    2300596: Object904
+    2300598: Object905
+    2300600: Object913
+    2300602: Object914
+    2300604: Object915
+    2300606: Object916
+    2300608: Object917
+    2300610: Object918
+    2300612: Object919
+    2300614: Object920
+    2300616: Plane759
+    2300618: RoadPiece_011
+    3300000: ' 016'
+    3300002: ' 017'
+    3300004: Box010
+    3300006: Box011
+    3300008: Box012
+    3300010: Box016
+    3300012: Box017
+    3300014: Box018
+    3300016: Box019
+    3300018: Box020
+    3300020: Box024
+    3300022: Box025
+    3300024: Box026
+    3300026: Box027
+    3300028: Box028
+    3300030: Box029
+    3300032: Box030
+    3300034: Church001
+    3300036: Cross_003
+    3300038: Cylinder001
+    3300040: Cylinder004
+    3300042: Cylinder005
+    3300044: default003
+    3300046: default004
+    3300048: default005
+    3300050: default006
+    3300052: default007
+    3300054: default008
+    3300056: default009
+    3300058: default010
+    3300060: default011
+    3300062: default012
+    3300064: default013
+    3300066: Egg_046
+    3300068: Egg_047
+    3300070: Egg_048
+    3300072: Egg_049
+    3300074: Egg_050
+    3300076: Egg_051
+    3300078: Egg_052
+    3300080: Egg_053
+    3300082: Egg_054
+    3300084: Egg_House_011
+    3300086: Egg_House_012
+    3300088: Egg_House_013
+    3300090: Egg_Pillar_004
+    3300092: Flower_Rope_Church001
+    3300094: House011
+    3300096: House_011
+    3300098: Line1479
+    3300100: Line1502
+    3300102: Line1503
+    3300104: Line1504
+    3300106: Line1533
+    3300108: Line1534
+    3300110: Line1535
+    3300112: Line1539
+    3300114: Line1540
+    3300116: Line1542
+    3300118: Line1545
+    3300120: Line1546
+    3300122: Line1547
+    3300124: Line1548
+    3300126: Line1549
+    3300128: Line1550
+    3300130: Line1552
+    3300132: Line1553
+    3300134: Line1554
+    3300136: Line1555
+    3300138: Line1557
+    3300140: Line1558
+    3300142: Line1561
+    3300144: Line1562
+    3300146: Line1563
+    3300148: Line1564
+    3300150: Line1565
+    3300152: Line1566
+    3300154: Line1567
+    3300156: Line1568
+    3300158: Line1569
+    3300160: Line1570
+    3300162: Line1574
+    3300164: Line1575
+    3300166: Line1576
+    3300168: Line1577
+    3300170: Line1578
+    3300172: Line1579
+    3300174: Line1580
+    3300176: Line1581
+    3300178: Line1582
+    3300180: Line1583
+    3300182: Line1588
+    3300184: Line1589
+    3300186: Line1590
+    3300188: Line1591
+    3300190: Line1608
+    3300192: Line1609
+    3300194: Line1613
+    3300196: Line1614
+    3300198: Line1615
+    3300200: Line1616
+    3300202: Line1617
+    3300204: Line1618
+    3300206: Line1619
+    3300208: Line1620
+    3300210: Line1621
+    3300212: Line1622
+    3300214: Line1623
+    3300216: Line1624
+    3300218: Line1625
+    3300220: Line1626
+    3300222: Line1627
+    3300224: Line1628
+    3300226: Line1629
+    3300228: Line1630
+    3300230: Line1645
+    3300232: Line1646
+    3300234: Line1647
+    3300236: Object380
+    3300238: Object541
+    3300240: Object542
+    3300242: Object544
+    3300244: Object545
+    3300246: Object547
+    3300248: Object589
+    3300250: Object590
+    3300252: Object591
+    3300254: Object591 1
+    3300256: Object592
+    3300258: Object593
+    3300260: Object594
+    3300262: Object595
+    3300264: Object596
+    3300266: Object599
+    3300268: Object606
+    3300270: Object607
+    3300272: Object609
+    3300274: Object611
+    3300276: Object612
+    3300278: Object613
+    3300280: Object614
+    3300282: Object615
+    3300284: Object616
+    3300286: Object617
+    3300288: Object618
+    3300290: Object620
+    3300292: Object621
+    3300294: Object624
+    3300296: Object627
+    3300298: Object628
+    3300300: Object630
+    3300302: Object631
+    3300304: Object632
+    3300306: Object634
+    3300308: Object636
+    3300310: Object638
+    3300312: Object639
+    3300314: Object639 1
+    3300316: Object640
+    3300318: Object641
+    3300320: Object642
+    3300322: Object643
+    3300324: Object644
+    3300326: Object645
+    3300328: Object646
+    3300330: Object647
+    3300332: Object653
+    3300334: Object654
+    3300336: Object655
+    3300338: Object656
+    3300340: Object657
+    3300342: Object659
+    3300344: Object660
+    3300346: Object662
+    3300348: Object663
+    3300350: Object664
+    3300352: Object665
+    3300354: Object667
+    3300356: Object669
+    3300358: Object670
+    3300360: Object673
+    3300362: Object674
+    3300364: Object675
+    3300366: Object676
+    3300368: Object677
+    3300370: Object678
+    3300372: Object679
+    3300374: Object680
+    3300376: Object681
+    3300378: Object682
+    3300380: Object683
+    3300382: Object684
+    3300384: Object685
+    3300386: Object686
+    3300388: Object687
+    3300390: Object688
+    3300392: Object689
+    3300394: Object690
+    3300396: Object691
+    3300398: Object692
+    3300400: Object693
+    3300402: Object694
+    3300404: Object695
+    3300406: Object696
+    3300408: Object697
+    3300410: Object698
+    3300412: Object699
+    3300414: Object700
+    3300416: Object702
+    3300418: Object736
+    3300420: Object737
+    3300422: Object738
+    3300424: Object739
+    3300426: Object740
+    3300428: Object746
+    3300430: Object747
+    3300432: Object748
+    3300434: Object750
+    3300436: Object806
+    3300438: Object807
+    3300440: Object817
+    3300442: Object820
+    3300444: Object821
+    3300446: Object822
+    3300448: Object823
+    3300450: Object824
+    3300452: Object825
+    3300454: Object827
+    3300456: Object828
+    3300458: Object829
+    3300460: Object830
+    3300462: Object831
+    3300464: Object832
+    3300466: Object833
+    3300468: Object834
+    3300470: Object835
+    3300472: Object836
+    3300474: Object837
+    3300476: Object838
+    3300478: Object839
+    3300480: Object840
+    3300482: Object841
+    3300484: Object842
+    3300486: Object843
+    3300488: Object844
+    3300490: Object845
+    3300492: Object846
+    3300494: Object851
+    3300496: Object852
+    3300498: Object853
+    3300500: Object854
+    3300502: Object855
+    3300504: Object856
+    3300506: Object857
+    3300508: Object858
+    3300510: Object859
+    3300512: Object860
+    3300514: Object861
+    3300516: Object862
+    3300518: Object863
+    3300520: Object864
+    3300522: Object865
+    3300524: Object866
+    3300526: Object867
+    3300528: Object868
+    3300530: Object869
+    3300532: Object870
+    3300534: Object871
+    3300536: Object872
+    3300538: Object873
+    3300540: Object874
+    3300542: Object875
+    3300544: Object876
+    3300546: Object877
+    3300548: Object878
+    3300550: Object879
+    3300552: Object880
+    3300554: Object881
+    3300556: Object883
+    3300558: Object884
+    3300560: Object885
+    3300562: Object886
+    3300564: Object887
+    3300566: Object888
+    3300568: Object890
+    3300570: Object891
+    3300572: Object892
+    3300574: Object893
+    3300576: Object894
+    3300578: Object895
+    3300580: Object896
+    3300582: Object897
+    3300584: Object898
+    3300586: Object899
+    3300588: Object900
+    3300590: Object901
+    3300592: Object902
+    3300594: Object903
+    3300596: Object904
+    3300598: Object905
+    3300600: Object913
+    3300602: Object914
+    3300604: Object915
+    3300606: Object916
+    3300608: Object917
+    3300610: Object918
+    3300612: Object919
+    3300614: Object920
+    3300616: Plane759
+    3300618: RoadPiece_011
+    4300000: Cylinder001
+    4300002: Object380
+    4300004: Line1479
+    4300006: Line1533
+    4300008: Line1534
+    4300010: Line1535
+    4300012: Object589
+    4300014: default003
+    4300016: Object590
+    4300018: Object591
+    4300020: Object592
+    4300022: Object593
+    4300024: Box010
+    4300026: Object594
+    4300028: Line1539
+    4300030: Line1540
+    4300032: Cylinder004
+    4300034: Line1545
+    4300036: Object595
+    4300038: Line1546
+    4300040: Line1547
+    4300042: Line1548
+    4300044: Line1549
+    4300046: Line1550
+    4300048: Object596
+    4300050: Line1552
+    4300052: Object609
+    4300054: Object613
+    4300056: Object614
+    4300058: Line1553
+    4300060: Object615
+    4300062: Object616
+    4300064: Object617
+    4300066: Object618
+    4300068: Line1554
+    4300070: Object620
+    4300072: Line1555
+    4300074: Object621
+    4300076: ' 016'
+    4300078: Object624
+    4300080: Line1557
+    4300082: Box011
+    4300084: Object627
+    4300086: Object628
+    4300088: Line1558
+    4300090: Box012
+    4300092: Object630
+    4300094: Object631
+    4300096: Object632
+    4300098: Line1561
+    4300100: Line1562
+    4300102: Line1563
+    4300104: Line1564
+    4300106: Line1565
+    4300108: Line1566
+    4300110: Object638
+    4300112: Line1567
+    4300114: Object547
+    4300116: Object591
+    4300118: Object639
+    4300120: Object653
+    4300122: Object654
+    4300124: Object655
+    4300126: Object656
+    4300128: Object657
+    4300130: Plane759
+    4300132: Object639
+    4300134: ' 017'
+    4300136: Object640
+    4300138: House011
+    4300140: Line1568
+    4300142: Line1569
+    4300144: Line1570
+    4300146: Object659
+    4300148: Object660
+    4300150: Object611
+    4300152: Object612
+    4300154: Box016
+    4300156: Object662
+    4300158: Object663
+    4300160: default004
+    4300162: Object664
+    4300164: default005
+    4300166: Object665
+    4300168: Object667
+    4300170: Line1574
+    4300172: Object669
+    4300174: Line1504
+    4300176: Line1502
+    4300178: Line1503
+    4300180: Object542
+    4300182: Object544
+    4300184: Object541
+    4300186: Object545
+    4300188: Line1575
+    4300190: Object670
+    4300192: Line1576
+    4300194: Line1577
+    4300196: Line1578
+    4300198: Line1579
+    4300200: Line1580
+    4300202: Line1581
+    4300204: Object673
+    4300206: Line1582
+    4300208: Line1583
+    4300210: default006
+    4300212: Object674
+    4300214: Object675
+    4300216: Box017
+    4300218: Object676
+    4300220: Object677
+    4300222: Object678
+    4300224: default007
+    4300226: default008
+    4300228: Object679
+    4300230: Object680
+    4300232: Box018
+    4300234: Object681
+    4300236: Object682
+    4300238: Object683
+    4300240: Object684
+    4300242: Object685
+    4300244: Object686
+    4300246: Object687
+    4300248: Object688
+    4300250: Object689
+    4300252: Object690
+    4300254: Object691
+    4300256: Object692
+    4300258: Box019
+    4300260: Object693
+    4300262: Object694
+    4300264: Object695
+    4300266: Box020
+    4300268: Object696
+    4300270: Object697
+    4300272: Object698
+    4300274: Line1588
+    4300276: Object699
+    4300278: Object700
+    4300280: Object702
+    4300282: Line1589
+    4300284: Line1590
+    4300286: Line1591
+    4300288: Object736
+    4300290: Object737
+    4300292: Object738
+    4300294: Object739
+    4300296: Object607
+    4300298: Object606
+    4300300: Object599
+    4300302: Object740
+    4300304: Object747
+    4300306: Object748
+    4300308: Object750
+    4300310: Object806
+    4300312: Object918
+    4300314: Object807
+    4300316: Egg_House_011
+    4300318: WindMill001
+    4300320: Object817
+    4300322: RoadPiece_011
+    4300324: Object820
+    4300326: Object821
+    4300328: Object822
+    4300330: Object823
+    4300332: Object824
+    4300334: Object825
+    4300336: Object827
+    4300338: Object828
+    4300340: Object829
+    4300342: Object642
+    4300344: Object643
+    4300346: Object644
+    4300348: Object645
+    4300350: Object646
+    4300352: Object647
+    4300354: Object641
+    4300356: Flower_Rope_Church001
+    4300358: Cross_003
+    4300360: Church001
+    4300362: WindMill002
+    4300364: Object830
+    4300366: Object831
+    4300368: Object832
+    4300370: Cylinder005
+    4300372: Line1542
+    4300374: Object833
+    4300376: Object834
+    4300378: Object835
+    4300380: Object836
+    4300382: Object837
+    4300384: Object838
+    4300386: Object839
+    4300388: Object840
+    4300390: Object841
+    4300392: Object842
+    4300394: Object843
+    4300396: Object844
+    4300398: Line1608
+    4300400: Line1609
+    4300402: Object845
+    4300404: Object846
+    4300406: Line1613
+    4300408: Object851
+    4300410: Line1614
+    4300412: Object852
+    4300414: Object853
+    4300416: Line1615
+    4300418: Line1616
+    4300420: Line1617
+    4300422: Line1618
+    4300424: Line1619
+    4300426: Line1620
+    4300428: Line1621
+    4300430: Line1622
+    4300432: Line1623
+    4300434: Object854
+    4300436: Line1624
+    4300438: Line1625
+    4300440: Object855
+    4300442: Object856
+    4300444: Object857
+    4300446: Object858
+    4300448: Line1626
+    4300450: Object859
+    4300452: Object860
+    4300454: Object861
+    4300456: Box024
+    4300458: Object862
+    4300460: Object863
+    4300462: default009
+    4300464: Box025
+    4300466: Object864
+    4300468: Object865
+    4300470: Object866
+    4300472: Object867
+    4300474: Object868
+    4300476: Line1627
+    4300478: Object869
+    4300480: default010
+    4300482: Object870
+    4300484: Object871
+    4300486: Object872
+    4300488: Object873
+    4300490: Box026
+    4300492: Object874
+    4300494: Line1628
+    4300496: Object875
+    4300498: default011
+    4300500: Object876
+    4300502: Object877
+    4300504: Object878
+    4300506: Object879
+    4300508: Box027
+    4300510: Object880
+    4300512: Object881
+    4300514: Line1629
+    4300516: Egg_House_012
+    4300518: Object883
+    4300520: Object884
+    4300522: Object885
+    4300524: Object886
+    4300526: Line1630
+    4300528: Object887
+    4300530: default012
+    4300532: Object888
+    4300534: Object890
+    4300536: Object891
+    4300538: Box028
+    4300540: Object892
+    4300542: Egg_Pillar_004
+    4300544: Egg_046
+    4300546: Egg_047
+    4300548: Egg_048
+    4300550: Egg_049
+    4300552: Egg_050
+    4300554: Egg_051
+    4300556: Egg_052
+    4300558: Egg_053
+    4300560: Egg_054
+    4300562: Object893
+    4300564: Object894
+    4300566: Object895
+    4300568: Object896
+    4300570: Object897
+    4300572: Object898
+    4300574: Object899
+    4300576: Object900
+    4300578: Box029
+    4300580: Object901
+    4300582: Object902
+    4300584: Object903
+    4300586: Object904
+    4300588: Box030
+    4300590: default013
+    4300592: Object905
+    4300594: Object913
+    4300596: Object914
+    4300598: Egg_House_013
+    4300600: Object915
+    4300602: Object916
+    4300604: Object917
+    4300606: Object636
+    4300608: Object634
+    4300610: Line1645
+    4300612: Line1646
+    4300614: Line1647
+    4300616: House_011
+    4300618: Object746
+    4300620: Object919
+    4300622: Object920
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: WindMill001
+    13700002: WindMill002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ' 016'
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Church001
+        weight: 1
+      - path: Church_F001
+        weight: 1
+      - path: Cross_003
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder004
+        weight: 1
+      - path: Cylinder005
+        weight: 1
+      - path: default003
+        weight: 1
+      - path: default004
+        weight: 1
+      - path: default005
+        weight: 1
+      - path: default006
+        weight: 1
+      - path: default007
+        weight: 1
+      - path: default008
+        weight: 1
+      - path: default009
+        weight: 1
+      - path: default010
+        weight: 1
+      - path: default011
+        weight: 1
+      - path: default012
+        weight: 1
+      - path: default013
+        weight: 1
+      - path: Egg_House_011
+        weight: 1
+      - path: Egg_House_012
+        weight: 1
+      - path: Egg_House_013
+        weight: 1
+      - path: Flower_Rope_Church001
+        weight: 1
+      - path: Group002
+        weight: 1
+      - path: Group002/Object634
+        weight: 1
+      - path: Group002/Object636
+        weight: 1
+      - path: Group003
+        weight: 1
+      - path: Group003/ 017
+        weight: 1
+      - path: Group003/Object639 1
+        weight: 1
+      - path: Group003/Plane759
+        weight: 1
+      - path: Group004
+        weight: 1
+      - path: Group004/House011
+        weight: 1
+      - path: Group004/Object640
+        weight: 1
+      - path: Group006
+        weight: 1
+      - path: Group006/Object611
+        weight: 1
+      - path: Group006/Object612
+        weight: 1
+      - path: Group007
+        weight: 1
+      - path: Group007/Line1502
+        weight: 1
+      - path: Group007/Line1503
+        weight: 1
+      - path: Group007/Line1504
+        weight: 1
+      - path: Group007/Object541
+        weight: 1
+      - path: Group007/Object542
+        weight: 1
+      - path: Group007/Object544
+        weight: 1
+      - path: Group007/Object545
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Windmill001
+        weight: 1
+      - path: Group012/Windmill001/Bone012
+        weight: 1
+      - path: Group012/Windmill001/Bone013
+        weight: 1
+      - path: Group012/Windmill001/Point005
+        weight: 1
+      - path: Group012/Windmill001/Point006
+        weight: 1
+      - path: Group012/Windmill001/WindMill001
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Windmill002
+        weight: 1
+      - path: Group015/Windmill002/Bone014
+        weight: 1
+      - path: Group015/Windmill002/Bone015
+        weight: 1
+      - path: Group015/Windmill002/Point007
+        weight: 1
+      - path: Group015/Windmill002/Point008
+        weight: 1
+      - path: Group015/Windmill002/WindMill002
+        weight: 1
+      - path: Group018
+        weight: 1
+      - path: Group018/Egg_046
+        weight: 1
+      - path: Group018/Egg_047
+        weight: 1
+      - path: Group018/Egg_048
+        weight: 1
+      - path: Group018/Egg_049
+        weight: 1
+      - path: Group018/Egg_050
+        weight: 1
+      - path: Group018/Egg_051
+        weight: 1
+      - path: Group018/Egg_052
+        weight: 1
+      - path: Group018/Egg_053
+        weight: 1
+      - path: Group018/Egg_054
+        weight: 1
+      - path: Group018/Egg_Pillar_004
+        weight: 1
+      - path: House_011
+        weight: 1
+      - path: Line1479
+        weight: 1
+      - path: Line1533
+        weight: 1
+      - path: Line1534
+        weight: 1
+      - path: Line1535
+        weight: 1
+      - path: Line1539
+        weight: 1
+      - path: Line1540
+        weight: 1
+      - path: Line1542
+        weight: 1
+      - path: Line1545
+        weight: 1
+      - path: Line1546
+        weight: 1
+      - path: Line1547
+        weight: 1
+      - path: Line1548
+        weight: 1
+      - path: Line1549
+        weight: 1
+      - path: Line1550
+        weight: 1
+      - path: Line1552
+        weight: 1
+      - path: Line1553
+        weight: 1
+      - path: Line1554
+        weight: 1
+      - path: Line1555
+        weight: 1
+      - path: Line1557
+        weight: 1
+      - path: Line1558
+        weight: 1
+      - path: Line1561
+        weight: 1
+      - path: Line1562
+        weight: 1
+      - path: Line1563
+        weight: 1
+      - path: Line1564
+        weight: 1
+      - path: Line1565
+        weight: 1
+      - path: Line1566
+        weight: 1
+      - path: Line1567
+        weight: 1
+      - path: Line1568
+        weight: 1
+      - path: Line1569
+        weight: 1
+      - path: Line1570
+        weight: 1
+      - path: Line1574
+        weight: 1
+      - path: Line1574/Object669
+        weight: 1
+      - path: Line1575
+        weight: 1
+      - path: Line1576
+        weight: 1
+      - path: Line1577
+        weight: 1
+      - path: Line1578
+        weight: 1
+      - path: Line1579
+        weight: 1
+      - path: Line1580
+        weight: 1
+      - path: Line1581
+        weight: 1
+      - path: Line1582
+        weight: 1
+      - path: Line1583
+        weight: 1
+      - path: Line1588
+        weight: 1
+      - path: Line1589
+        weight: 1
+      - path: Line1590
+        weight: 1
+      - path: Line1591
+        weight: 1
+      - path: Line1608
+        weight: 1
+      - path: Line1609
+        weight: 1
+      - path: Line1613
+        weight: 1
+      - path: Line1614
+        weight: 1
+      - path: Line1615
+        weight: 1
+      - path: Line1616
+        weight: 1
+      - path: Line1617
+        weight: 1
+      - path: Line1618
+        weight: 1
+      - path: Line1619
+        weight: 1
+      - path: Line1620
+        weight: 1
+      - path: Line1621
+        weight: 1
+      - path: Line1622
+        weight: 1
+      - path: Line1623
+        weight: 1
+      - path: Line1624
+        weight: 1
+      - path: Line1625
+        weight: 1
+      - path: Line1626
+        weight: 1
+      - path: Line1627
+        weight: 1
+      - path: Line1628
+        weight: 1
+      - path: Line1629
+        weight: 1
+      - path: Line1630
+        weight: 1
+      - path: Line1645
+        weight: 1
+      - path: Line1646
+        weight: 1
+      - path: Line1647
+        weight: 1
+      - path: Object380
+        weight: 1
+      - path: Object540
+        weight: 1
+      - path: Object547
+        weight: 1
+      - path: Object589
+        weight: 1
+      - path: Object590
+        weight: 1
+      - path: Object591
+        weight: 1
+      - path: Object591 1
+        weight: 1
+      - path: Object592
+        weight: 1
+      - path: Object593
+        weight: 1
+      - path: Object594
+        weight: 1
+      - path: Object595
+        weight: 1
+      - path: Object596
+        weight: 1
+      - path: Object599
+        weight: 1
+      - path: Object606
+        weight: 1
+      - path: Object607
+        weight: 1
+      - path: Object609
+        weight: 1
+      - path: Object613
+        weight: 1
+      - path: Object614
+        weight: 1
+      - path: Object615
+        weight: 1
+      - path: Object616
+        weight: 1
+      - path: Object617
+        weight: 1
+      - path: Object618
+        weight: 1
+      - path: Object620
+        weight: 1
+      - path: Object621
+        weight: 1
+      - path: Object624
+        weight: 1
+      - path: Object627
+        weight: 1
+      - path: Object628
+        weight: 1
+      - path: Object630
+        weight: 1
+      - path: Object631
+        weight: 1
+      - path: Object632
+        weight: 1
+      - path: Object638
+        weight: 1
+      - path: Object639
+        weight: 1
+      - path: Object641
+        weight: 1
+      - path: Object642
+        weight: 1
+      - path: Object643
+        weight: 1
+      - path: Object644
+        weight: 1
+      - path: Object645
+        weight: 1
+      - path: Object646
+        weight: 1
+      - path: Object647
+        weight: 1
+      - path: Object653
+        weight: 1
+      - path: Object654
+        weight: 1
+      - path: Object655
+        weight: 1
+      - path: Object656
+        weight: 1
+      - path: Object657
+        weight: 1
+      - path: Object659
+        weight: 1
+      - path: Object660
+        weight: 1
+      - path: Object662
+        weight: 1
+      - path: Object663
+        weight: 1
+      - path: Object664
+        weight: 1
+      - path: Object665
+        weight: 1
+      - path: Object667
+        weight: 1
+      - path: Object670
+        weight: 1
+      - path: Object673
+        weight: 1
+      - path: Object674
+        weight: 1
+      - path: Object675
+        weight: 1
+      - path: Object676
+        weight: 1
+      - path: Object677
+        weight: 1
+      - path: Object678
+        weight: 1
+      - path: Object679
+        weight: 1
+      - path: Object680
+        weight: 1
+      - path: Object681
+        weight: 1
+      - path: Object682
+        weight: 1
+      - path: Object683
+        weight: 1
+      - path: Object684
+        weight: 1
+      - path: Object685
+        weight: 1
+      - path: Object686
+        weight: 1
+      - path: Object687
+        weight: 1
+      - path: Object688
+        weight: 1
+      - path: Object689
+        weight: 1
+      - path: Object690
+        weight: 1
+      - path: Object691
+        weight: 1
+      - path: Object692
+        weight: 1
+      - path: Object693
+        weight: 1
+      - path: Object694
+        weight: 1
+      - path: Object695
+        weight: 1
+      - path: Object696
+        weight: 1
+      - path: Object697
+        weight: 1
+      - path: Object698
+        weight: 1
+      - path: Object699
+        weight: 1
+      - path: Object700
+        weight: 1
+      - path: Object702
+        weight: 1
+      - path: Object736
+        weight: 1
+      - path: Object737
+        weight: 1
+      - path: Object738
+        weight: 1
+      - path: Object739
+        weight: 1
+      - path: Object740
+        weight: 1
+      - path: Object746
+        weight: 1
+      - path: Object747
+        weight: 1
+      - path: Object748
+        weight: 1
+      - path: Object750
+        weight: 1
+      - path: Object806
+        weight: 1
+      - path: Object806/Object918
+        weight: 1
+      - path: Object807
+        weight: 1
+      - path: Object817
+        weight: 1
+      - path: Object820
+        weight: 1
+      - path: Object821
+        weight: 1
+      - path: Object822
+        weight: 1
+      - path: Object823
+        weight: 1
+      - path: Object824
+        weight: 1
+      - path: Object825
+        weight: 1
+      - path: Object827
+        weight: 1
+      - path: Object828
+        weight: 1
+      - path: Object829
+        weight: 1
+      - path: Object830
+        weight: 1
+      - path: Object831
+        weight: 1
+      - path: Object832
+        weight: 1
+      - path: Object833
+        weight: 1
+      - path: Object834
+        weight: 1
+      - path: Object835
+        weight: 1
+      - path: Object836
+        weight: 1
+      - path: Object837
+        weight: 1
+      - path: Object838
+        weight: 1
+      - path: Object839
+        weight: 1
+      - path: Object840
+        weight: 1
+      - path: Object841
+        weight: 1
+      - path: Object842
+        weight: 1
+      - path: Object843
+        weight: 1
+      - path: Object844
+        weight: 1
+      - path: Object845
+        weight: 1
+      - path: Object846
+        weight: 1
+      - path: Object851
+        weight: 1
+      - path: Object852
+        weight: 1
+      - path: Object853
+        weight: 1
+      - path: Object854
+        weight: 1
+      - path: Object855
+        weight: 1
+      - path: Object856
+        weight: 1
+      - path: Object857
+        weight: 1
+      - path: Object858
+        weight: 1
+      - path: Object859
+        weight: 1
+      - path: Object860
+        weight: 1
+      - path: Object861
+        weight: 1
+      - path: Object862
+        weight: 1
+      - path: Object863
+        weight: 1
+      - path: Object864
+        weight: 1
+      - path: Object865
+        weight: 1
+      - path: Object866
+        weight: 1
+      - path: Object867
+        weight: 1
+      - path: Object868
+        weight: 1
+      - path: Object869
+        weight: 1
+      - path: Object870
+        weight: 1
+      - path: Object871
+        weight: 1
+      - path: Object872
+        weight: 1
+      - path: Object873
+        weight: 1
+      - path: Object874
+        weight: 1
+      - path: Object875
+        weight: 1
+      - path: Object876
+        weight: 1
+      - path: Object877
+        weight: 1
+      - path: Object878
+        weight: 1
+      - path: Object879
+        weight: 1
+      - path: Object880
+        weight: 1
+      - path: Object881
+        weight: 1
+      - path: Object883
+        weight: 1
+      - path: Object884
+        weight: 1
+      - path: Object885
+        weight: 1
+      - path: Object886
+        weight: 1
+      - path: Object887
+        weight: 1
+      - path: Object888
+        weight: 1
+      - path: Object890
+        weight: 1
+      - path: Object891
+        weight: 1
+      - path: Object892
+        weight: 1
+      - path: Object893
+        weight: 1
+      - path: Object894
+        weight: 1
+      - path: Object895
+        weight: 1
+      - path: Object896
+        weight: 1
+      - path: Object897
+        weight: 1
+      - path: Object898
+        weight: 1
+      - path: Object899
+        weight: 1
+      - path: Object900
+        weight: 1
+      - path: Object901
+        weight: 1
+      - path: Object902
+        weight: 1
+      - path: Object903
+        weight: 1
+      - path: Object904
+        weight: 1
+      - path: Object905
+        weight: 1
+      - path: Object913
+        weight: 1
+      - path: Object914
+        weight: 1
+      - path: Object915
+        weight: 1
+      - path: Object916
+        weight: 1
+      - path: Object917
+        weight: 1
+      - path: Object919
+        weight: 1
+      - path: Object920
+        weight: 1
+      - path: RoadPiece_011
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
